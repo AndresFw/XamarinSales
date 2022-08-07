@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="XamarinSales.Api.WebApiApplication" Language="VB" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="XamarinSales.Api.WebApiApplication" Language="C#" %>
